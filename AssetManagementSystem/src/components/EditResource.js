@@ -28,7 +28,6 @@ const formStyles = {
       marginBottom: 7,
       fontWeight: '600'
     },
-    // the style applied when a validation error occours
     error: {
       color: 'red',
       fontSize: 18,
