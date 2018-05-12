@@ -17,8 +17,8 @@ class LoginScreen extends Component {
       super(props);
       this.state = {
         error: '',
-        username: 'Toor', 
-        password: 'password'
+        username: '', 
+        password: ''
       };
     };
 
